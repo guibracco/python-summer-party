@@ -12,7 +12,7 @@ Every daily challenge was presented as a quick 3-questions analysis[^note] of a 
 
 This repo reproduces all of the 15 days of coding challenges with their original data.
 
-[^note]: Day 12 had only 2 questions
+[^note]: Day 12 had only 2 questions.
 
 ---
 
