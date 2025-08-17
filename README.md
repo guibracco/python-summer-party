@@ -2,9 +2,11 @@
 by Interview Master & in partnership with DataCamp  
 with [Dawn Choo](https://www.linkedin.com/in/data-dawn), [Jeremiah Clark](https://www.linkedin.com/in/jeremiahoclark) and [Sai Bysani](https://www.linkedin.com/in/saibysani18)
 
+<img width="600" height="600" alt="python-summer-party" src="https://github.com/user-attachments/assets/d9759b98-2810-4863-992c-39a950ac60c3" />
+
 ### 15 days of *NumPy & Pandas* [coding challenges](https://www.interviewmaster.ai/python-party) (during August 2025)
 
-Available at [Interview Master](https://www.interviewmaster.ai)
+Available at [Interview Master](https://www.interviewmaster.ai).
 
 ---
 
