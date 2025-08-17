@@ -2,9 +2,17 @@
 by Interview Master & in partnership with DataCamp  
 with [Dawn Choo](https://www.linkedin.com/in/data-dawn), [Jeremiah Clark](https://www.linkedin.com/in/jeremiahoclark) and [Venkata Naga Sai Kumar Bysani](https://www.linkedin.com/in/saibysani18)
 
-### 15 days of *NumPy & Pandas* [coding challenges](https://www.interviewmaster.ai/python-party) (during August 2025).
+### 15 days of *NumPy & Pandas* [coding challenges](https://www.interviewmaster.ai/python-party) (during August 2025)
 
 Available at [Interview Master](https://www.interviewmaster.ai)
+
+---
+
+Every daily challenge was presented as a quick 3-questions analysis[^note] of a small dataset, designed to mock one of known real business and divided by the publishers into easy, medium and hard categories. Instead of a big and complex coding project, the goal was to solve the tasks proposed using either NumPy and/or Pandas.
+
+This repo reproduces all of the 15 days of coding challenges with their original data.
+
+[^note]: Day 12 had only 2 questions
 
 ---
 
